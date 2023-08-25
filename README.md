@@ -6,7 +6,7 @@ Hello there! Welcome to my GitHub profile. I'm Abhilash Malkar, and I'm passiona
 
 I'm a dedicated software developer with a strong academic background in Computer Application. My journey in the world of programming started at a young age and has since evolved into a full-fledged career. I love diving into new technologies, exploring various programming languages, and staying up-to-date with industry trends.
 
-- **Full-Stack Development**: I have experience working on both front-end and back-end development. From crafting intuitive user interfaces with HTML, CSS, and JavaScript, to designing efficient server-side systems, I enjoy the entire development process.
+<!-- - **Full-Stack Development**: I have experience working on both front-end and back-end development. From crafting intuitive user interfaces with HTML, CSS, and JavaScript, to designing efficient server-side systems, I enjoy the entire development process. -->
 
 <!-- - **Open Source Enthusiast**: I believe in the importance of giving back to the community. I actively contribute to open source projects that align with my interests. Collaborating with other developers and learning from their expertise is something I truly value. -->
 
